@@ -12,4 +12,4 @@
 8. Update the main.py
 9. Update the dvc.yaml
 
-418016367502.dkr.ecr.ap-south-1.amazonaws.com/chicken1
+418016367502.dkr.ecr.ap-south-1.amazonaws.com
